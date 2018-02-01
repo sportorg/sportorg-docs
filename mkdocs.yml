@@ -1,0 +1,7 @@
+site_name: SportOrg
+pages:
+- 'Главная': index.md
+- 'О нас':
+  - 'Разработчики': 'about/contributors.md'
+  - 'License': 'about/LICENSE.md'
+  - 'Список изменений': 'about/changelog.md'
