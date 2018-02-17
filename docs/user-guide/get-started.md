@@ -6,15 +6,15 @@
 
 Системные требования: Windows 7 32/64 и более новые версии Windows.
 
-IMG
+![Screenshot](img/1.png)
 
 Создаем новый файл
 
-IMG
-IMG
+![Screenshot](img/2.png)
+![Screenshot](img/3.png)
 
 Укажем информацию о соревнованиях
 
-IMG
-IMG
+![Screenshot](img/4.png)
+![Screenshot](img/5.png)
 
