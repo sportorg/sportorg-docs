@@ -11,66 +11,66 @@
 * Коллектив
 * Представитель
 * Разряд
-  * 0 = б/р
-  * 1 = Iю
-  * 2 = IIю
-  * 3 = IIIю
-  * 4 = I
-  * 5 = II
-  * 6 = III
-  * 7 = КМС
-  * 8 = МС
-  * 9 = МСМК
-  * 10 = ЗМС
+    * 0 = б/р
+    * 1 = Iю
+    * 2 = IIю
+    * 3 = IIIю
+    * 4 = I
+    * 5 = II
+    * 6 = III
+    * 7 = КМС
+    * 8 = МС
+    * 9 = МСМК
+    * 10 = ЗМС
 * Номер
 * Год рождения
 * Номер чипа
 * Комментарий
 
-IMG
-IMG
-IMG
-IMG
-IMG
+![Screenshot](img/6.png)
+![Screenshot](img/7.png)
+![Screenshot](img/8.png)
+![Screenshot](img/9.png)
+![Screenshot](img/10.png)
 
 ## Импортируем данные о дистанциях (OCAD Courses v8)
 
-IMG
-IMG
-IMG
+![Screenshot](img/11.png)
+![Screenshot](img/12.png)
+![Screenshot](img/13.png)
 
 ## Присвоим дистанции для групп
 
 В SportOrg есть опция подбора дистанций по имени – если имя дистанции содержит в себе имя группы, то они связываются. Например, группа “Ж12” свяжется с дистанцией “М12,Ж12”
 
-IMG
-IMG
-IMG
+![Screenshot](img/14.png)
+![Screenshot](img/15.png)
+![Screenshot](img/16.png)
 
 Из примера видно, что для МЭ и ЖЭ нужно указать дистанции вручную
 
 Для редактирования группы 2 раза кликаем по ней или нажимаем Enter после выделения
 
-IMG
-IMG
+![Screenshot](img/17.png)
+![Screenshot](img/18.png)
 
 Во всех выпадающих списках применяется фильтрация по введенному значению
 
-IMG
+![Screenshot](img/19.png)
 
-## коридоры для групп
+## Коридоры для групп
 
 Теперь можно прописать коридоры для групп
 
 Есть также автоматическое присвоение коридоров, но оно нам сейчас не совсем подойдет, у нас 1 группа = 1 дистанция.
 
-IMG
+![Screenshot](img/20.png)
 
 Присваиваем коридоры и порядок в коридоре согласно положению о соревнованиях
 
-IMG
-IMG
-IMG
+![Screenshot](img/21.jpg)
+![Screenshot](img/22.png)
+![Screenshot](img/23.png)
 
 ## Работа с участниками – фильтрация
 
@@ -80,13 +80,13 @@ IMG
 
 Для сброса фильтра необходимо установить пустые значения для поиска в диалоге фильтрации.
 
-IMG
-IMG
-IMG
-IMG
-IMG
-IMG
-IMG
-IMG
-IMG
-IMG
+![Screenshot](img/24.png)
+![Screenshot](img/25.png)
+![Screenshot](img/26.png)
+![Screenshot](img/27.png)
+![Screenshot](img/28.png)
+![Screenshot](img/29.png)
+![Screenshot](img/30.png)
+![Screenshot](img/31.png)
+![Screenshot](img/32.png)
+![Screenshot](img/33.png)
