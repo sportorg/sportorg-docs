@@ -6,7 +6,7 @@ ___
 
 [Скачать v0.11.0-rc2](http://goo.gl/N5pZLH)
 
-[Документация](//sportorg.o-ural.ru/data/docs180125.zip)
+[Документация c примерами](//sportorg.o-ural.ru/data/docs180125.zip)
 
 ## Установка
 
@@ -14,9 +14,10 @@ ___
 1. распакуйте архив,
 1. запустите программу SportOrg.exe.
 
-![Mainwindow sportorg](https://github.com/sportorg/pysport/raw/dev/img/mainwindow.png)
-
-![Dialogedit sportorg](https://github.com/sportorg/pysport/raw/dev/img/dialogedit.png)
+![Mainwindow sportorg](img/mainwindow.png)
+![Dialogedit sportorg](img/dialogedit.png)
+![Result sportorg](img/result.png)
+![Bibprintout sportorg](img/bibprintout.png)
 
 ## Возможные проблемы
 

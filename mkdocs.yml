@@ -6,9 +6,17 @@ repo_url: 'https://github.com/sportorg/sportorg-docs'
 
 copyright: 'Copyright &copy; 2018 SportOrg'
 
+theme: readthedocs
+
 pages:
 - 'Главная': index.md
-- 'Гид пользователя': user-guide/index.md
+- 'Гид пользователя':
+  - 'Начало работы': user-guide/get-started.md
+  - 'Импорт данных': user-guide/import-data.md
+  - 'Подготовка к старту': user-guide/start.md
+  - 'Финиш': user-guide/finish.md
+  - 'Работа с электронной отметкой SPORTident': user-guide/sportident.md
+  - 'Winorient': user-guide/winorient.md
 - 'FAQ': faq/index.md
 - 'О нас':
   - 'Разработчики': about/contributors.md
