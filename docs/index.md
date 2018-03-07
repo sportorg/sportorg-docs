@@ -23,6 +23,8 @@ ___
 
 ## Возможные проблемы
 
+[Группа VK](https://vk.com/sportorgpro)
+
 [FAQ](faq/index.md)
 
 ## Для разработчиков
