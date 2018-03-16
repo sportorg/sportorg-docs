@@ -17,6 +17,7 @@ pages:
   - 'Финиш': user-guide/finish.md
   - 'Работа с электронной отметкой SPORTident': user-guide/sportident.md
   - 'Winorient': user-guide/winorient.md
+  - 'Командная работа': user-guide/teamwork.md
 - 'FAQ': faq/index.md
 - 'О нас':
   - 'Разработчики': about/contributors.md
