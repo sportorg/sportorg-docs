@@ -1,5 +1,7 @@
 # Winorient
 
+___
+
 ## Поддержка формата WDB (Winorient)
 
 SportOrg позволяет сохранить и загрузить данные из формата WDB (Winorient).

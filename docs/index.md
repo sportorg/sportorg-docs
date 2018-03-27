@@ -6,14 +6,12 @@ ___
 
 [Скачать v1.0.0](//sportorg.o-ural.ru/sportorg-v1.0.0.exe)
 
-Документация немного отстаёт от новой версии. Скоро исправим.
-
 [Документация c примерами](//sportorg.o-ural.ru/data/docs180125.zip)
 
 ## Установка
 
-1. Загрузите программу SportOrg,
-1. распакуйте архив,
+1. Загрузите установщик SportOrg,
+1. установите программу,
 1. запустите программу SportOrg.exe.
 
 ![Mainwindow sportorg](img/mainwindow.png)
@@ -23,9 +21,9 @@ ___
 
 ## Возможные проблемы
 
-[Группа VK](https://vk.com/sportorgpro)
-
 [FAQ](faq/index.md)
+
+[Группа VK](https://vk.com/sportorgpro)
 
 ## Для разработчиков
 
