@@ -15,6 +15,7 @@ pages:
   - 'Импорт данных': user-guide/import-data.md
   - 'Подготовка к старту': user-guide/start.md
   - 'Финиш': user-guide/finish.md
+  - 'Проверка отметки': user-guide/course.md
   - 'Работа с электронной отметкой SPORTident': user-guide/sportident.md
   - 'Winorient': user-guide/winorient.md
   - 'Командная работа': user-guide/teamwork.md
