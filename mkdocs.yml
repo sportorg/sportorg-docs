@@ -1,5 +1,5 @@
 site_name: SportOrg
-site_description: 'SportOrg - программа для организации соревнований'
+site_description: 'SportOrg - программное обеспечение для организации соревнований. Поддержка электронных систем отметки SPORTIdent, SFR, SportIduino'
 
 repo_name: 'sportorg-docs'
 repo_url: 'https://github.com/sportorg/sportorg-docs'
