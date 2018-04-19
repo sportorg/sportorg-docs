@@ -4,7 +4,7 @@ ___
 
 ## Загрузить
 
-[Скачать v1.0.0](//sportorg.o-ural.ru/sportorg-v1.0.0.exe)
+[Скачать v1.1.0](//sportorg.o-ural.ru/SportOrg-v1.1.0.exe)
 
 [Документация c примерами](//sportorg.o-ural.ru/data/docs180125.zip)
 
