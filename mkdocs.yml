@@ -19,6 +19,8 @@ pages:
   - 'Работа с электронной отметкой SPORTident': user-guide/sportident.md
   - 'Winorient': user-guide/winorient.md
   - 'Командная работа': user-guide/teamwork.md
+  - 'Шаблоны': user-guide/templates.md
+  - 'Лабиринт': user-guide/maze.md
 - 'FAQ': faq/index.md
 - 'О нас':
   - 'Разработчики': about/contributors.md
