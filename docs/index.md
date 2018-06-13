@@ -4,9 +4,7 @@ ___
 
 ## Загрузить
 
-[Скачать v1.1.0](//sportorg.o-ural.ru/SportOrg-v1.1.0.exe)
-
-[Документация c примерами](//sportorg.o-ural.ru/data/docs180125.zip)
+[Скачать v1.2.0](https://vk.cc/8aDXnz)
 
 ## Установка
 
