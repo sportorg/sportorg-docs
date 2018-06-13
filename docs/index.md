@@ -11,8 +11,8 @@ ___
 ## Установка
 
 1. Загрузите установщик SportOrg,
-1. установите программу,
-1. запустите программу SportOrg.exe.
+1. Установите программу,
+1. Запустите программу SportOrg.exe.
 
 ![Mainwindow sportorg](img/mainwindow.png)
 ![Dialogedit sportorg](img/dialogedit.png)
