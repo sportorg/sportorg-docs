@@ -4,7 +4,7 @@ ___
 
 ## Загрузить
 
-[Скачать v1.2.0](https://vk.cc/8aDXnz)
+[Скачать v1.3.0](https://vk.cc/8yQnUq)
 
 ## Установка
 
@@ -21,7 +21,7 @@ ___
 
 [FAQ](faq/index.md)
 
-[Группа VK](https://vk.com/sportorgpro)
+[Группа VK](https://vk.com/sportorgio)
 
 ## Для разработчиков
 
