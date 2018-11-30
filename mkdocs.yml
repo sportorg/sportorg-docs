@@ -6,23 +6,40 @@ repo_url: 'https://github.com/sportorg/sportorg-docs'
 
 copyright: 'Copyright &copy; 2018 SportOrg'
 
-theme: readthedocs
+theme:
+  name: readthedocs
+  language: ru
 
-pages:
+plugins:
+- search:
+    lang: ru
+
+nav:
 - 'Главная': index.md
+- 'Меню':
+  - menu/file.md
+  - menu/edit.md
+  - menu/view.md
+  - menu/start_preparation.md
+  - menu/competition.md
+  - menu/results.md
+  - menu/service.md
+  - menu/options.md
+  - menu/help.md
 - 'Гид пользователя':
-  - 'Начало работы': user-guide/get-started.md
-  - 'Импорт данных': user-guide/import-data.md
-  - 'Подготовка к старту': user-guide/start.md
-  - 'Финиш': user-guide/finish.md
-  - 'Проверка отметки': user-guide/course.md
-  - 'Работа с электронной отметкой SPORTident': user-guide/sportident.md
-  - 'Winorient': user-guide/winorient.md
-  - 'Командная работа': user-guide/teamwork.md
-  - 'Шаблоны': user-guide/templates.md
-  - 'Лабиринт': user-guide/maze.md
+  - user-guide/get-started.md
+  - user-guide/import-data.md
+  - user-guide/start.md
+  - user-guide/finish.md
+  - user-guide/course.md
+  - user-guide/sportident.md
+  - user-guide/winorient.md
+  - user-guide/teamwork.md
+  - user-guide/templates.md
+  - user-guide/maze.md
+  - user-guide/liveorg.md
 - 'FAQ': faq/index.md
 - 'О нас':
-  - 'Разработчики': about/contributors.md
+  - about/contributors.md
   - 'License': about/LICENSE.md
-  - 'Список изменений': about/changelog.md
+  - about/changelog.md
