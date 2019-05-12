@@ -1,4 +1,5 @@
 site_name: SportOrg
+site_url: https://sportorg.readthedocs.io/ru/latest/
 site_description: 'SportOrg - программное обеспечение для организации соревнований. Поддержка электронных систем отметки SPORTIdent, SFR, SportIduino'
 
 repo_name: 'sportorg-docs'
@@ -16,16 +17,6 @@ plugins:
 
 nav:
 - 'Главная': index.md
-- 'Меню':
-  - menu/file.md
-  - menu/edit.md
-  - menu/view.md
-  - menu/start_preparation.md
-  - menu/competition.md
-  - menu/results.md
-  - menu/service.md
-  - menu/options.md
-  - menu/help.md
 - 'Гид пользователя':
   - user-guide/get-started.md
   - user-guide/import-data.md
