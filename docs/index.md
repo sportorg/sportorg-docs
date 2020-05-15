@@ -2,13 +2,13 @@
 
 ___
 
-Документация по состоянию на 12 мая 2019г. 
+Документация по состоянию на 12 мая 2019г.
 
 ___
 
 ## Загрузить
 
-[Скачать v1.5.0](https://vk.cc/9H0r9A)
+[Загрузить](https://github.com/sportorg/pysport/releases)
 
 ## Установка
 
@@ -29,7 +29,7 @@ ___
     - [Вставка резервных участников](user-guide/start_reserve.md)
     - [Жеребьевка](user-guide/start_draw.md)
     - [Присвоение времени старта](user-guide/start_time.md)
-    - [Присвоение номеров](user-guide/start_bib.md)    
+    - [Присвоение номеров](user-guide/start_bib.md)
 - Отчеты и протоколы
     - [Протокол старта](user-guide/start_protocol_list.md)
     - [Шахматка](user-guide/start_protocol_times.md)
