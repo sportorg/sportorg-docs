@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sportorg-docs"
+version = "0.1.0"
+description = ""
+authors = ["Danil Akhtarov <daxartio@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs = "^1.5.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

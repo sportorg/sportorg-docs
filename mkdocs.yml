@@ -1,11 +1,11 @@
-site_name: SportOrg
+site_name: Sportorg
 site_url: https://sportorg.readthedocs.io/ru/latest/
-site_description: 'SportOrg - программное обеспечение для организации соревнований. Поддержка электронных систем отметки SPORTIdent, SFR, SportIduino'
+site_description: 'Sportorg - программное обеспечение для организации соревнований. Поддержка электронных систем отметки SPORTIdent, SFR, SportIduino'
 
 repo_name: 'sportorg-docs'
 repo_url: 'https://github.com/sportorg/sportorg-docs'
 
-copyright: 'Copyright &copy; 2018 SportOrg'
+copyright: 'Copyright &copy; 2024 Sportorg'
 
 theme:
   name: readthedocs

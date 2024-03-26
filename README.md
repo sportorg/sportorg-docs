@@ -1,13 +1,6 @@
-[![Build Status](https://api.travis-ci.org/sportorg/sportorg-docs.svg?branch=master)](https://travis-ci.org/sportorg/sportorg-docs)
+# Sportorg Docs
 
-# Docs
-
-```txt
-pip install mkdocs
-
-git clone ...
-
-mkdocs serve
-
-mkdocs build
+```
+make install
+make docs
 ```
