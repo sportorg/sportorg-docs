@@ -12,9 +12,3 @@ build:
 
 mkdocs:
   configuration: mkdocs.yml
-
-# Optionally declare the Python requirements required to build your docs
-python:
-  install:
-    - method: pip
-      path: mkdocs==1.5.3
